@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<shop>
+    <productList>
+        <name>Апельсины</name>
+        <price>777</price>
+        <id>123</id>
+        <dateTime>15:49:15 24.09.2021</dateTime>
+    </productList>
+    <productList>
+        <name>Помидоры</name>
+        <price>987</price>
+        <id>745</id>
+        <dateTime>15:53:14 24.09.2021</dateTime>
+    </productList>
+   <productList>
+    <name>Картошка</name>
+    <price>789</price>
+    <id>125</id>
+    <dateTime>15:50:15 24.09.2021</dateTime>
+    </productList>
+</shop>
