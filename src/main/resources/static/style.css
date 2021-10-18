@@ -1,0 +1,27 @@
+.mainMenu{
+    font-family: Arial, Helvetica, Verdana, sans-serif; /* Гарнитура шрифта */
+    font-size: 100%; /* Размер текста */
+    font-weight: lighter; /* Светлое начертание */
+    width: 200px;
+    height: 30px;
+    background-color: lightgoldenrodyellow;
+    border-radius: 6px;
+}
+
+.tableText{
+    font-family: Arial, Helvetica, Verdana, sans-serif; /* Гарнитура шрифта */
+    font-size: 100%; /* Размер текста */
+    text-align: center;
+    padding: 10px 10px;
+    font-weight: bold;
+}
+
+.sortTable{
+    border-collapse: collapse;
+    line-height: 1.1;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    background:  radial-gradient(farthest-corner at 50% 50%, white, blueviolet);
+    color: #fffa00;
+    border-radius: 6px;
+    text-align: center;
+}
